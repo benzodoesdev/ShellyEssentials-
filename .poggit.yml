@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/benzodoesdev/ShellyEssentials-
+branches:
+- master
+projects:
+  ShellyEssentials-:
+    path: ""
+...
