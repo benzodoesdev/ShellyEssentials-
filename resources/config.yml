@@ -1,26 +1,26 @@
 ---
 # Below is the config are the messages that will be broadcasted
 messages:
- - "Broadcast Message #1"
- - "Broadcast Message #2"
+ - ""
+ - ""
 
 # The below config is the prefix before the above messages
-prefix: "Broadcast Prefix > "
+prefix: ""
 
 # The below configs is when the messages above will be broadcasted in seconds
 broadcast-interval: 60
 
 # The below config is the server name that will show up in the minecraft server list (NOTE: Use & for color coding)
-motd: "Server MOTD"
+motd: "&cCricix&bPE &e|&6 Factions &3/ &6Prisons"
 
 # The below config is the title that will show when the player joins the server
-join-title: "Title"
+join-title: "§cCricix§bPE"
 
 # The below config is the subtitle that will show when the player joins the server
-join-subtitle: "Subtitle"
+join-subtitle: "§6Factions §3/ §6Prisons"
 
 # The below config is the message that will be sent when the player joins the server
-join-message: "Message"
+join-message: "§bWelcome §6{PLAYER} §bto §cCricix§bPE"
 
 # The below config is to toggle on or off novoid support (OPTIONS: on and off)
 novoid: "on"
